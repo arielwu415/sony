@@ -1,0 +1,100 @@
+@media screen and (max-width: 786px){
+	body{
+  		margin: 0;
+	}
+	header{
+		width: 786px;
+	}
+	footer{
+		width: 786px;
+		height: 240px;
+	}
+	.container{
+  		width: 786px;
+		margin: auto;
+	}
+	.sony_logo{
+		float: left;
+		width: 0px;
+		margin: auto;
+		padding: 50px 0 0 20px;
+	}
+	.sony_logo img{
+		padding: 0;
+		width: 160px;
+	}
+	.box_nav{
+		float: right;
+		padding: 70px 0 0 10px;
+	}
+	.box_nav li{
+		font-size: 18px;
+		font-family: Microsoft JhengHei;
+	  	color: #FFFFFF;
+	  	padding-right: 15px;
+	  	padding-bottom: 5px;
+	  	float: left;
+	}
+	.box_head p{
+		margin: 0px;
+		padding-top: 25px;
+		padding-bottom: 18px;
+		padding-left: 30px;
+	}
+	.big_img{
+		height: 307px;
+	}
+	.big_img img{
+		width: 720px;
+		margin: auto;
+		padding: 0 0 0 30px;
+	}
+	.box_title{
+ 		width: 720px;
+		height: 240px;
+		margin: 0 0 0 30px;
+		padding: 0px;
+	}
+	.text_thrd h4{
+		font-size: 17px;
+		padding-right: 20px;
+		margin-top: 50px;
+		float: right;
+	}
+	.itm{
+		width: 786px;
+	}
+	.text_sub{
+		width: 300px;
+		margin: 0 0 0 30px;
+		padding: 45px 0 20px 0px;
+	}
+	#different{
+		display: none;
+	}
+	#the_same{
+		display: block;
+	}
+	.box_itm1{
+		width: 786px;
+		padding: 0;
+	}
+	.con_mon{
+		margin-top: 150px;
+	}
+	.text_more{
+		padding-right: 30px;
+	}
+	.box_footer p{
+		padding: 46px 0 40px 0;
+		float: none;
+		text-align: center;
+	}
+	.footer_icon{
+		float: none;
+		width: 230px;
+		height: 75px;
+		margin: auto;
+		padding: 27px 0 0 48px;
+	}
+}

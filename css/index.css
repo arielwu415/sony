@@ -1,0 +1,224 @@
+header{
+  background-color: #000000;
+  width: auto;
+  height: 130px;
+  margin: 0px;
+  padding: 0px;
+}
+footer{
+  background-color: #000000;
+  width: auto;
+  height: 110px;
+}
+html{
+  background-color: #FFFFFF;
+  max-width: none;
+  max-height: none;
+  margin: auto;
+}
+body{
+  margin: auto;
+}
+.container{
+  width: 1280px;
+  margin: auto;
+}
+.sony_logo{
+  width: 214px;
+  height: 40px;
+  padding-top: 50px;
+  padding-left: 260px;
+  margin: 0px;
+}
+.small-nav{
+  display: none;
+}
+.box_nav{
+  float: right;
+  padding-right: 240px;
+}
+.box_nav ul{
+margin: 0px;
+padding: 0px;
+}
+.box_nav li{
+  display: block;
+  list-style: none;
+  font-size: 18px;
+  font-family: Microsoft JhengHei;
+  color: #FFFFFF;
+  padding-right: 30px;
+  padding-bottom: 5px;
+  float: left;
+}
+.box_footer{
+  padding: 0px;
+  margin: 0px;
+}
+.box_footer p{
+  font-size: 18px;
+  font-family: Microsoft JhengHei;
+  color: #FFFFFF;
+  padding-left: 260px;
+  padding-top: 46px;
+  padding-bottom: 40px;
+  margin: auto;
+  float: left;
+}
+.footer_icon{
+  float: right;
+  padding-right: 240px;
+  padding-top: 27px;
+}
+.footer_icon img{
+  float: left;
+  padding-right: 25px;
+}
+.box_head p{
+  display: block;
+  font-size: 18px;
+  font-family: Microsoft JhengHei;
+  color: #646464;
+  margin: 0px;
+  padding-top: 25px;
+  padding-bottom: 18px;
+  padding-left: 150px;
+}
+.big_img{
+  display: block;
+}
+.big_img img{
+  padding-left: 150px;
+}
+.small_img{
+  display: none;
+}
+.box_title{
+  background-color: #ECECEC;
+  font-family: Microsoft JhengHei;
+  color: #000000;
+  width: 980px;
+  height: 194px;
+  margin: auto;
+  padding: 0px;
+}
+.text_first p{
+  display: block;
+  font-size: 30px;
+  margin: 0px;
+  padding-top: 23px;
+  padding-bottom: 15px;
+  padding-left: 6px;
+}
+.text_sec{
+  width: auto;
+  height: 77.5px;
+  margin: 0px;
+}
+.text_sec p{
+  display: block;
+  font-size: 18px;
+  line-height: 30px;
+  margin: 0px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.text_thrd h4{
+  display: block;
+  font-size: 18px;
+  margin: 0px;
+  padding-right: 15px;
+  padding-bottom: 12px;
+  float: right;
+}
+.text_sub{
+  font-size: 24px;
+  font-family: Microsoft JhengHei;
+  color: #646464;
+  margin: 0px;
+  padding-top: 45px;
+  padding-bottom: 20px;
+  padding-left: 150px;
+}
+.box_itm1{
+  width: 979px;
+  height: 351px;
+  margin: auto;
+  padding-bottom: 20px;
+  padding-left: 150px;
+  float: left;
+}
+.box_itm1 img{
+  float: left;
+}
+hr{
+  color: #000000;
+  width: 0px;
+  height: 291px;
+  margin-left: 29px;
+  margin-right: 29px;
+  margin-top: 30px;
+  margin-bottom: 0px;
+  padding: 0px;
+  float: left;
+  box-sizing: border-box;
+}
+.itm1_text{
+  width: auto;
+  height: 351px;
+  font-family: Microsoft JhengHei;
+  margin: 0px;
+  padding-left: 30px;
+  padding-right: 80px;
+  float: left;
+  box-sizing: content-box;
+}
+.con_sub{
+  font-size: 46px;
+  color: #000000;
+  padding-top: 30px;
+}
+.text_s{
+  font-size: 30px;
+  color: #0000D2;
+  padding-top: 30px;
+}
+.con_info{
+  margin: 0px;
+  padding-bottom: 17px;
+  padding-top: 10px;
+  line-height: 45px;
+  font-size: 24px;
+  color: #000000;
+}
+.con_info p{
+  margin: 0px;
+}
+.con_mon{
+  margin: 0px;
+  font-size: 20px;
+  color: #000000;
+  line-height: 35px;
+}
+.text_pce{
+  color: #F08728;
+  padding-left: 15px;
+  float: right;
+}
+.text_r{
+  font-size: 30px;
+  color: #D20000;
+  padding-top: 30px;
+}
+.text_more{
+  font-family: Microsoft JhengHei;
+  font-size: 24px;
+  color: #646464;
+  margin: 0px;
+  padding-bottom: 50px;
+  padding-right: 150px;
+  float: right;
+}
+.clear{
+  clear: both;
+}
